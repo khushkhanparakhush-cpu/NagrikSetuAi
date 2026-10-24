@@ -1,0 +1,277 @@
+{
+  "municipalCorporation": "Ahmedabad Municipal Corporation (AMC)",
+  "simulationMode": true,
+  "disclaimer": "This is a simulated Mock AMC dataset for Garbathon 2026 Hackathon prototype demonstration. Not connected to official AMC government portals.",
+  "wards": [
+    {
+      "wardId": "W12",
+      "wardName": "Navrangpura",
+      "zone": "West Zone",
+      "pincode": "380009",
+      "officeAddress": "AMC West Zone Office, Near Navrangpura Bus Stand, Ahmedabad",
+      "supportedAreas": [
+        "Navrangpura",
+        "University Area",
+        "Commerce College",
+        "CG Road",
+        "Law Garden",
+        "Mithakhali",
+        "Gulbai Tekra",
+        "Gujarat College",
+        "Samartheshwar Mahadev"
+      ]
+    },
+    {
+      "wardId": "W27",
+      "wardName": "Maninagar",
+      "zone": "South Zone",
+      "pincode": "380008",
+      "officeAddress": "AMC South Zone Office, Rambaug, Maninagar, Ahmedabad",
+      "supportedAreas": [
+        "Maninagar",
+        "Kankaria",
+        "Kankaria Lake",
+        "Rambaug",
+        "Daxini",
+        "Balvatika",
+        "Bhairavnath",
+        "Pushpkunj",
+        "Jawahar Chowk",
+        "Maninagar Railway Station"
+      ]
+    },
+    {
+      "wardId": "W01",
+      "wardName": "Nikol",
+      "zone": "East Zone",
+      "pincode": "382350",
+      "officeAddress": "AMC East Zone Office, Nikol Gam Road, Ahmedabad",
+      "supportedAreas": [
+        "Nikol",
+        "Nikol Gam",
+        "SP Ring Road East",
+        "Raspan Cross Road",
+        "Khodiyar Mandir",
+        "Ankur Chokdi",
+        "Sukan Cross Road"
+      ]
+    },
+    {
+      "wardId": "W02",
+      "wardName": "Bodakdev - Vastrapur",
+      "zone": "New West Zone",
+      "pincode": "380054",
+      "officeAddress": "AMC New West Zone Office, Judges Bungalow Road, Bodakdev, Ahmedabad",
+      "supportedAreas": [
+        "Vastrapur",
+        "Vastrapur Lake",
+        "Bodakdev",
+        "Judges Bungalow",
+        "IIM Ahmedabad Area",
+        "Sindhu Bhavan Cross Road",
+        "Pakwan Junction"
+      ]
+    },
+    {
+      "wardId": "W03",
+      "wardName": "Satellite - Jodhpur",
+      "zone": "West Zone",
+      "pincode": "380015",
+      "officeAddress": "AMC West Ward Office, Shyamal Cross Road, Ahmedabad",
+      "supportedAreas": [
+        "Satellite",
+        "Jodhpur",
+        "Shyamal",
+        "Shivranjani",
+        "Prahladnagar",
+        "Anandnagar",
+        "Star Bazaar Road"
+      ]
+    },
+    {
+      "wardId": "W04",
+      "wardName": "Paldi",
+      "zone": "West Zone",
+      "pincode": "380007",
+      "officeAddress": "AMC Paldi Ward Office, Mahalaxmi Cross Road, Ahmedabad",
+      "supportedAreas": [
+        "Paldi",
+        "Mahalaxmi",
+        "Anjali Cross Road",
+        "Kocharab Ashram",
+        "Bhatta",
+        "Fatehnagar",
+        "Sharda Mandir Road"
+      ]
+    },
+    {
+      "wardId": "W05",
+      "wardName": "Naranpura",
+      "zone": "West Zone",
+      "pincode": "380013",
+      "officeAddress": "AMC Naranpura Ward Office, AEC Char Rasta, Ahmedabad",
+      "supportedAreas": [
+        "Naranpura",
+        "AEC",
+        "Sola Road Naranpura",
+        "Ankur Char Rasta",
+        "Paras Nagar",
+        "Mirambika School Area"
+      ]
+    },
+    {
+      "wardId": "W06",
+      "wardName": "Sabarmati",
+      "zone": "North West Zone",
+      "pincode": "380005",
+      "officeAddress": "AMC Sabarmati Office, Near Sabarmati Railway Station, Ahmedabad",
+      "supportedAreas": [
+        "Sabarmati",
+        "Motera",
+        "Chandkheda",
+        "D-Cabin",
+        "Dharmanagar",
+        "Narendra Modi Stadium Area"
+      ]
+    },
+    {
+      "wardId": "W08",
+      "wardName": "Jamalpur",
+      "zone": "Central Zone",
+      "pincode": "380001",
+      "officeAddress": "AMC Central Zone Office, Danapith, Ahmedabad",
+      "supportedAreas": [
+        "Jamalpur",
+        "Gita Mandir",
+        "Calico Mills",
+        "Khamasa",
+        "Jagannath Temple Area",
+        "Sardar Bridge East"
+      ]
+    },
+    {
+      "wardId": "W09",
+      "wardName": "Khadia",
+      "zone": "Central Zone",
+      "pincode": "380001",
+      "officeAddress": "AMC Khadia Ward Office, Raipur Darwaja, Ahmedabad",
+      "supportedAreas": [
+        "Khadia",
+        "Raipur",
+        "Sarangpur",
+        "Astodia",
+        "Manek Chowk",
+        "Ratanpol",
+        "Panchkuva"
+      ]
+    },
+    {
+      "wardId": "W14",
+      "wardName": "Odhav",
+      "zone": "East Zone",
+      "pincode": "382415",
+      "officeAddress": "AMC Odhav Ward Office, SP Ring Road, Odhav, Ahmedabad",
+      "supportedAreas": [
+        "Odhav",
+        "Odhav GIDC",
+        "Viratnagar",
+        "Chhatral Road Junction",
+        "Morarji Chowk"
+      ]
+    },
+    {
+      "wardId": "W15",
+      "wardName": "Bapunagar",
+      "zone": "East Zone",
+      "pincode": "380024",
+      "officeAddress": "AMC Bapunagar Ward Office, Shyam Shikhar Complex, Ahmedabad",
+      "supportedAreas": [
+        "Bapunagar",
+        "India Colony",
+        "Diamond Market",
+        "General Hospital Area",
+        "Dinesh Chambers"
+      ]
+    },
+    {
+      "wardId": "W16",
+      "wardName": "Naroda",
+      "zone": "North Zone",
+      "pincode": "382330",
+      "officeAddress": "AMC Naroda Ward Office, Naroda Bethak, Ahmedabad",
+      "supportedAreas": [
+        "Naroda",
+        "Naroda GIDC",
+        "Naroda Bethak",
+        "Galaxy Cinema Area",
+        "Muthiya"
+      ]
+    },
+    {
+      "wardId": "W22",
+      "wardName": "Vatva",
+      "zone": "South Zone",
+      "pincode": "382440",
+      "officeAddress": "AMC Vatva Ward Office, Vatva Railway Crossing, Ahmedabad",
+      "supportedAreas": [
+        "Vatva",
+        "Vatva GIDC",
+        "Vatva Gam",
+        "Bibitalav Road",
+        "Ranuja Mandir Area"
+      ]
+    },
+    {
+      "wardId": "W30",
+      "wardName": "Gota - Sola",
+      "zone": "North West Zone",
+      "pincode": "382481",
+      "officeAddress": "AMC Gota Ward Office, SG Highway, Gota, Ahmedabad",
+      "supportedAreas": [
+        "Gota",
+        "Sola",
+        "Science City Road",
+        "Sola Bhagwat",
+        "Gota Cross Road",
+        "Vandemataram Area"
+      ]
+    },
+    {
+      "wardId": "W31",
+      "wardName": "Thaltej",
+      "zone": "New West Zone",
+      "pincode": "380059",
+      "officeAddress": "AMC Thaltej Ward Office, Near Hebatpur Road, Ahmedabad",
+      "supportedAreas": [
+        "Thaltej",
+        "Sindhu Bhavan Road",
+        "Hebatpur",
+        "Thaltej Gam",
+        "Zydus Hospital Road",
+        "Baghban Party Plot Area"
+      ]
+    }
+  ],
+  "departmentRouting": {
+    "Pothole": {
+      "department": "Roads & Buildings",
+      "rationale": "Pothole complaints are routed to the Roads & Buildings Department for asphalt patching, resurfacing, and carriageway restoration under AMC municipal engineering guidelines."
+    },
+    "Garbage": {
+      "department": "Solid Waste Management",
+      "rationale": "Garbage and debris complaints are routed to the Solid Waste Management Department for mechanical compactor dispatch, bin clearance, and locality sanitization."
+    },
+    "Broken Streetlight": {
+      "department": "Light Department",
+      "rationale": "Broken streetlight and unlit luminaire complaints are routed to the Light Department for circuit breaker inspection, feeder repairs, and LED luminaire replacements."
+    },
+    "Waterlogging": {
+      "department": "Storm Water Drainage",
+      "rationale": "Waterlogging, choked culverts, and stagnant stormwater complaints are routed to the Storm Water Drainage Department for dewatering pumps and suction jetting operations."
+    },
+    "Other Civic Issue": {
+      "department": "Municipal Engineering Wing",
+      "rationale": "General civic infrastructure defects are routed to the Municipal Engineering Wing for preliminary inspection and onward cross-departmental coordination."
+    }
+  }
+}

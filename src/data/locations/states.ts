@@ -1,0 +1,43 @@
+import { StateItem } from './types';
+
+export const INDIAN_STATES: StateItem[] = [
+  // 28 States
+  { id: 'IN-AP', name: 'Andhra Pradesh', code: 'AP', type: 'state' },
+  { id: 'IN-AR', name: 'Arunachal Pradesh', code: 'AR', type: 'state' },
+  { id: 'IN-AS', name: 'Assam', code: 'AS', type: 'state' },
+  { id: 'IN-BR', name: 'Bihar', code: 'BR', type: 'state' },
+  { id: 'IN-CG', name: 'Chhattisgarh', code: 'CG', type: 'state' },
+  { id: 'IN-GA', name: 'Goa', code: 'GA', type: 'state' },
+  { id: 'IN-GJ', name: 'Gujarat', code: 'GJ', type: 'state' },
+  { id: 'IN-HR', name: 'Haryana', code: 'HR', type: 'state' },
+  { id: 'IN-HP', name: 'Himachal Pradesh', code: 'HP', type: 'state' },
+  { id: 'IN-JH', name: 'Jharkhand', code: 'JH', type: 'state' },
+  { id: 'IN-KA', name: 'Karnataka', code: 'KA', type: 'state' },
+  { id: 'IN-KL', name: 'Kerala', code: 'KL', type: 'state' },
+  { id: 'IN-MP', name: 'Madhya Pradesh', code: 'MP', type: 'state' },
+  { id: 'IN-MH', name: 'Maharashtra', code: 'MH', type: 'state' },
+  { id: 'IN-MN', name: 'Manipur', code: 'MN', type: 'state' },
+  { id: 'IN-ML', name: 'Meghalaya', code: 'ML', type: 'state' },
+  { id: 'IN-MZ', name: 'Mizoram', code: 'MZ', type: 'state' },
+  { id: 'IN-NL', name: 'Nagaland', code: 'NL', type: 'state' },
+  { id: 'IN-OD', name: 'Odisha', code: 'OD', type: 'state' },
+  { id: 'IN-PB', name: 'Punjab', code: 'PB', type: 'state' },
+  { id: 'IN-RJ', name: 'Rajasthan', code: 'RJ', type: 'state' },
+  { id: 'IN-SK', name: 'Sikkim', code: 'SK', type: 'state' },
+  { id: 'IN-TN', name: 'Tamil Nadu', code: 'TN', type: 'state' },
+  { id: 'IN-TS', name: 'Telangana', code: 'TS', type: 'state' },
+  { id: 'IN-TR', name: 'Tripura', code: 'TR', type: 'state' },
+  { id: 'IN-UP', name: 'Uttar Pradesh', code: 'UP', type: 'state' },
+  { id: 'IN-UK', name: 'Uttarakhand', code: 'UK', type: 'state' },
+  { id: 'IN-WB', name: 'West Bengal', code: 'WB', type: 'state' },
+
+  // 8 Union Territories
+  { id: 'IN-AN', name: 'Andaman and Nicobar Islands', code: 'AN', type: 'ut' },
+  { id: 'IN-CH', name: 'Chandigarh', code: 'CH', type: 'ut' },
+  { id: 'IN-DH', name: 'Dadra and Nagar Haveli and Daman and Diu', code: 'DH', type: 'ut' },
+  { id: 'IN-DL', name: 'Delhi', code: 'DL', type: 'ut' },
+  { id: 'IN-JK', name: 'Jammu and Kashmir', code: 'JK', type: 'ut' },
+  { id: 'IN-LA', name: 'Ladakh', code: 'LA', type: 'ut' },
+  { id: 'IN-LD', name: 'Lakshadweep', code: 'LD', type: 'ut' },
+  { id: 'IN-PY', name: 'Puducherry', code: 'PY', type: 'ut' },
+];

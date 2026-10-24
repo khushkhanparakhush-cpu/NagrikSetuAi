@@ -1,0 +1,6 @@
+// Reliable Civic Logo Assets & Data URIs for NagrikSetu
+export const CITIZEN_LOGO_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"><rect width="64" height="64" rx="16" fill="#15171A"/><path d="M18 46V18L46 46V18" stroke="#356AE6" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="18" cy="18" r="5" fill="#FFFFFF"/><circle cx="18" cy="46" r="5" fill="#356AE6"/><circle cx="46" cy="18" r="5" fill="#356AE6"/><circle cx="46" cy="46" r="5" fill="#FFFFFF"/></svg>`;
+
+export const CITIZEN_LOGO_DATA_URI = `data:image/svg+xml;utf8,${encodeURIComponent(CITIZEN_LOGO_SVG)}`;
+
+export const CITIZEN_LOGO_URL = '/assets/citizen-logo.svg';

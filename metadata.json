@@ -1,0 +1,6 @@
+{
+  "name": "NagrikSetu AI - Civic Intelligence Platform",
+  "description": "Vernacular civic intelligence platform synthesizing citizen voice reports into structured, geotagged development intelligence for municipal prioritisation.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

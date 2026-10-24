@@ -1,0 +1,242 @@
+[
+  {
+    "id": "complaint-1792846036237-928",
+    "trackingId": "AMC-DEMO-2026-000006",
+    "ticketNumber": "AMC-DEMO-2026-000006",
+    "ownerId": "citizen-qa-tester",
+    "citizenDescription": "Streetlight pole completely dark on Vastrapur lake periphery track.",
+    "aiSummary": "Streetlight pole dark for 3 days",
+    "category": "Broken Streetlight",
+    "priority": "Medium",
+    "priorityScore": 75,
+    "severity": "MODERATE",
+    "location": "Vastrapur",
+    "area": "Vastrapur",
+    "city": "Ahmedabad",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "wardId": "W02",
+    "wardName": "Bodakdev - Vastrapur",
+    "zone": "New West Zone",
+    "department": "Light Department",
+    "status": "In Progress",
+    "image": null,
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-24T12:47:16.237Z",
+        "note": "Complaint registered in Mock AMC System via Civic Complaint Agent.",
+        "updatedBy": "Civic Complaint Agent"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-24T12:47:16.258Z",
+        "note": "AMC Light Department crew dispatched with replacement ballast.",
+        "updatedBy": "citizen@nagriksetu.gov.in"
+      }
+    ],
+    "createdAt": "2026-10-24T12:47:16.237Z",
+    "updatedAt": "2026-10-24T12:47:16.258Z"
+  },
+  {
+    "id": "complaint-1792843585651-695",
+    "trackingId": "AMC-DEMO-2026-000005",
+    "ticketNumber": "AMC-DEMO-2026-000005",
+    "ownerId": "citizen-user-01",
+    "citizenDescription": "Severe asphalt crater outside Navrangpura market",
+    "aiSummary": "Citizen reported municipal grievance.",
+    "category": "Pothole",
+    "priority": "High",
+    "priorityScore": 90,
+    "severity": "CRITICAL",
+    "location": "Navrangpura",
+    "area": "Navrangpura",
+    "city": "Ahmedabad",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "wardId": "W12",
+    "wardName": "Navrangpura",
+    "zone": "West Zone",
+    "department": "Roads & Buildings",
+    "status": "In Progress",
+    "image": null,
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-24T12:06:25.651Z",
+        "note": "Complaint registered in Mock AMC System via Civic Complaint Agent.",
+        "updatedBy": "Civic Complaint Agent"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-24T12:06:43.018Z",
+        "note": "Asphalt crew dispatched to Navrangpura market road.",
+        "updatedBy": "citizen@nagriksetu.gov.in"
+      }
+    ],
+    "createdAt": "2026-10-24T12:06:25.651Z",
+    "updatedAt": "2026-10-24T12:06:43.018Z"
+  },
+  {
+    "id": "complaint-001",
+    "trackingId": "AMC-DEMO-2026-000001",
+    "ticketNumber": "AMC-DEMO-2026-000001",
+    "ownerId": "citizen-user-01",
+    "citizenDescription": "Deep asphalt crater pothole near Navrangpura Commerce College and CG Road junction causing traffic bottleneck.",
+    "aiSummary": "Hazardous road surface pothole requiring immediate cold-mix asphalt patching.",
+    "category": "Pothole",
+    "priority": "High",
+    "priorityScore": 92,
+    "severity": "CRITICAL",
+    "location": "Navrangpura, CG Road",
+    "area": "Navrangpura",
+    "city": "Ahmedabad",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "wardId": "W12",
+    "wardName": "Navrangpura",
+    "zone": "West Zone",
+    "department": "Roads & Buildings",
+    "status": "In Progress",
+    "image": null,
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-09-27T08:30:00Z",
+        "note": "Complaint filed by citizen via Civic Complaint Agent.",
+        "updatedBy": "System / Citizen"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-09-27T09:00:00Z",
+        "note": "Auto-routed to Roads & Buildings Department, West Zone.",
+        "updatedBy": "AMC Agent Dispatcher"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-09-27T10:15:00Z",
+        "note": "PWD asphalt patching maintenance crew dispatched on-site.",
+        "updatedBy": "Junior Engineer, W12"
+      }
+    ],
+    "createdAt": "2026-09-27T08:30:00Z",
+    "updatedAt": "2026-09-27T10:15:00Z"
+  },
+  {
+    "id": "complaint-002",
+    "trackingId": "AMC-DEMO-2026-000002",
+    "ticketNumber": "AMC-DEMO-2026-000002",
+    "ownerId": "citizen-user-01",
+    "citizenDescription": "Commercial solid waste and uncollected garbage bin overflowing near Kankaria Lake gate in Maninagar.",
+    "aiSummary": "Overflowing communal solid waste container creating public health and odor nuisance.",
+    "category": "Garbage",
+    "priority": "Medium",
+    "priorityScore": 78,
+    "severity": "HIGH",
+    "location": "Maninagar, Kankaria",
+    "area": "Maninagar",
+    "city": "Ahmedabad",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "wardId": "W27",
+    "wardName": "Maninagar",
+    "zone": "South Zone",
+    "department": "Solid Waste Management",
+    "status": "Assigned",
+    "image": null,
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-09-28T09:00:00Z",
+        "note": "Complaint filed by citizen via Civic Complaint Agent.",
+        "updatedBy": "System / Citizen"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-09-28T09:30:00Z",
+        "note": "Auto-routed to Solid Waste Management Department, South Zone.",
+        "updatedBy": "AMC Agent Dispatcher"
+      }
+    ],
+    "createdAt": "2026-09-28T09:00:00Z",
+    "updatedAt": "2026-09-28T09:30:00Z"
+  },
+  {
+    "id": "complaint-003",
+    "trackingId": "AMC-DEMO-2026-000003",
+    "ticketNumber": "AMC-DEMO-2026-000003",
+    "ownerId": "citizen-user-01",
+    "citizenDescription": "Streetlight pole non-functional for three nights near Vastrapur Lake perimeter walkway.",
+    "aiSummary": "Non-functional LED luminaire pole resulting in dark stretch on pedestrian promenade.",
+    "category": "Broken Streetlight",
+    "priority": "Medium",
+    "priorityScore": 68,
+    "severity": "MODERATE",
+    "location": "Vastrapur Lake",
+    "area": "Vastrapur",
+    "city": "Ahmedabad",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "wardId": "W02",
+    "wardName": "Bodakdev - Vastrapur",
+    "zone": "New West Zone",
+    "department": "Light Department",
+    "status": "Submitted",
+    "image": null,
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-09-29T11:00:00Z",
+        "note": "Complaint registered in Mock AMC System.",
+        "updatedBy": "System / Citizen"
+      }
+    ],
+    "createdAt": "2026-09-29T11:00:00Z",
+    "updatedAt": "2026-09-29T11:00:00Z"
+  },
+  {
+    "id": "complaint-004",
+    "trackingId": "AMC-DEMO-2026-000004",
+    "ticketNumber": "AMC-DEMO-2026-000004",
+    "ownerId": "citizen-user-01",
+    "citizenDescription": "Monsoon waterlogging under Nikol SP Ring Road junction due to blocked stormwater culvert.",
+    "aiSummary": "Stormwater drainage backflow causing road inundation and traffic snarls.",
+    "category": "Waterlogging",
+    "priority": "High",
+    "priorityScore": 88,
+    "severity": "CRITICAL",
+    "location": "Nikol, SP Ring Road",
+    "area": "Nikol",
+    "city": "Ahmedabad",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "wardId": "W01",
+    "wardName": "Nikol",
+    "zone": "East Zone",
+    "department": "Storm Water Drainage",
+    "status": "Resolved",
+    "image": null,
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-09-26T14:00:00Z",
+        "note": "Complaint registered in Mock AMC System.",
+        "updatedBy": "System / Citizen"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-09-26T15:00:00Z",
+        "note": "Suction jetting unit deployed to clear choked catchpit.",
+        "updatedBy": "Stormwater Drainage Dept"
+      },
+      {
+        "status": "Resolved",
+        "timestamp": "2026-09-26T18:30:00Z",
+        "note": "Drainage line de-silted and roadway cleared of stagnant runoff.",
+        "updatedBy": "AMC Municipal Inspector"
+      }
+    ],
+    "createdAt": "2026-09-26T14:00:00Z",
+    "updatedAt": "2026-09-26T18:30:00Z"
+  }
+]
